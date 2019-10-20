@@ -1,0 +1,10 @@
+.page-content__container{
+  display: flex;
+}
+.sidebar {
+  padding-top: 15px;
+  width: 25%;
+}
+.main-content {
+  width: 75%;
+}

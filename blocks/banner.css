@@ -1,0 +1,22 @@
+.banner {
+  background-color: #4bb56b;
+  margin-bottom: 50px;
+  display: flex;
+}
+
+.banner__title {
+  
+  text-align: center;
+  height: 170px;
+}
+.banner__desc {
+  display: inline-block;
+  text-align: left;
+  width: 621px;
+  height: 79px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 30px;
+}
+
